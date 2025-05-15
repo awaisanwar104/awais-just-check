@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import PostCard from "./components/PostCard";
+import PostCard from "./PostCard";
 
 const mockPosts = [
   {
